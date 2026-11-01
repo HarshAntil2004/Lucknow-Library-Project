@@ -1,6 +1,6 @@
 ## Lucknow Public Library Management System
 
-#Junior Software Engineer Internship Project
+Junior Software Engineer Internship Project
 
 A transactional lending system for a fictional three-branch Lucknow library network
 (Hazratganj, Aminabad, Gomti Nagar). It handles books and copies, membership tiers,
